@@ -118,9 +118,9 @@ revolut-customer-insights/
 **François Tilkin**  
 Data Analyst | Data Engineering
 
-- LinkedIn: [Your LinkedIn]
-- GitHub: [https://github.com/78381507]
-- Email: [Your Email]
+- [LinkedIn] [www.linkedin.com/in/françois-tilkin-1667b138a/]
+- [GitHub] [https://github.com/78381507]
+- [Email] [mailto:tilkinanalytics@gmail.com]
 
 ---
 
