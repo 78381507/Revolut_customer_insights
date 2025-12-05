@@ -119,7 +119,7 @@ revolut-customer-insights/
 Data Analyst | Data Engineering
 
 - LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- GitHub: [https://github.com/78381507]
 - Email: [Your Email]
 
 ---
