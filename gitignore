@@ -1,0 +1,49 @@
+# Revolut Customer Insights - .gitignore
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+data/raw/*
+data/processed/*
+
+# Credentials
+credentials.json
+config.ini
+.env
+
+# Google Sheets cache
+.sheets_cache/
+~$*.xlsx
+
+# Looker Studio temp
+*.tmp
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+
+# Exports
+output/
+exports/
+*.pdf
+!dashboard/*.pdf
+
+# System
+Thumbs.db
+desktop.ini
+
+# Backup
+*.bak
+*~
