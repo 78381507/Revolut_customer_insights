@@ -2,7 +2,7 @@
 
 Customer sentiment analysis of 14,749 Revolut app reviews to identify satisfaction drivers, complaint patterns, and actionable improvement areas.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+[Dashboard Preview](Dashboard_Revolut_V8.pdf)
 
 ## Project Overview
 
